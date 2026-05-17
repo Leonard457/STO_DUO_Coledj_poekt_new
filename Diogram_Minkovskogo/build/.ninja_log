@@ -1,0 +1,9 @@
+# ninja log v7
+8	802	8006597857422475	CMakeFiles/app.dir/main.cpp.obj	834a6d01d22f5b54
+804	943	8006597865395272	app.exe	1273af6f49ac5800
+5	820	8006599752454436	build.ninja	b384f4adcf3f4b06
+5	820	8006599752454436	C:/Users/HOME/Desktop/Fisik_STO_Program/Diogram_Minkovskogo/build/cmake_install.cmake	b384f4adcf3f4b06
+23	991	8006599753044475	CMakeFiles/app.dir/D_Minkovsk.cpp.obj	da48d42dcbeb7e1e
+992	1144	8006599762724447	app.exe	1dde10a4b512c80c
+35	845	8007177247750999	CMakeFiles/app.dir/D_Minkovsk.cpp.obj	da48d42dcbeb7e1e
+847	1002	8007177255870047	app.exe	1dde10a4b512c80c

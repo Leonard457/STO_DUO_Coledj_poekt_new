@@ -1,0 +1,3 @@
+C:/Users/HOME/Desktop/Fisik_STO_Program/Twin_paradox/build/CMakeFiles/app.dir
+C:/Users/HOME/Desktop/Fisik_STO_Program/Twin_paradox/build/CMakeFiles/edit_cache.dir
+C:/Users/HOME/Desktop/Fisik_STO_Program/Twin_paradox/build/CMakeFiles/rebuild_cache.dir
