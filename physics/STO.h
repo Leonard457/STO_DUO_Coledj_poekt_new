@@ -72,4 +72,18 @@ namespace sto {
     inline double ct_to_t(double ct) {
         return ct / C;
     }
+
+    // Приближение источника (смещение в синюю область)
+    inline double relativistic_doppler_factor(double beta, double Y, double ug_rad) {
+        if (beta < 0.0 || beta >= 1.0) {
+            throw std::invalid_argument("Beta must be in range [0, 1)");
+        }
+        return 1 / (Y * (1 - beta * cosf(ug_rad)));
+    }
+    inline double Frequency(double D_fact, double v_0) {
+        return D_fact * v_0;
+    }
+    inline double WaveCycle(double waveCycle_0, double D_fact) {
+        return waveCycle_0 / D_fact;
+    }
 }

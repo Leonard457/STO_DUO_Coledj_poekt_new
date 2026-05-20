@@ -1,0 +1,3 @@
+C:/Users/HOME/Desktop/Fisik_STO_Program/Doppler_Effect/build/CMakeFiles/app.dir
+C:/Users/HOME/Desktop/Fisik_STO_Program/Doppler_Effect/build/CMakeFiles/edit_cache.dir
+C:/Users/HOME/Desktop/Fisik_STO_Program/Doppler_Effect/build/CMakeFiles/rebuild_cache.dir
